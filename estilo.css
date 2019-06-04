@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+	color: #444
+}
+
+h1 {
+	padding: 12px;
+}
+
+div {
+    padding: 10px 20px;
+}
